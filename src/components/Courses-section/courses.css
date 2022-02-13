@@ -1,0 +1,46 @@
+.single__course__item {
+    padding: 15px;
+}
+
+.course__img img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.enroll a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #055f4a;
+}
+
+.lesson, 
+.students, 
+.rating {
+    font-size: 0.9rem;
+    color: #0c8367;
+    font-weight: 500;
+}
+
+.lesson i, 
+.students i, 
+.rating i {
+    font-weight: 400;
+}
+
+.course__title {
+    line-height: 2rem;
+}
+
+.course__top .btn {
+    width: 20%;
+    background-color: #2ac7a844;
+    border-radius: 50px;
+}
+
+.course__top .btn:hover {
+    color: white;
+    transition: .5s;
+    background-color: #21d8b3a2;
+    border-radius: 50px;
+}
