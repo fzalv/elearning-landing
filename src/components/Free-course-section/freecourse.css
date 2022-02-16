@@ -1,0 +1,35 @@
+.free__course__img {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    z-index: 999;
+}
+
+.free__course__img .free__btn {
+    position: absolute;
+    bottom: -20px;
+    right: 20px;
+    z-index: 9999;
+    padding: 5px 15px;
+    font-size: .9rem;
+    width: 30%;
+    background-color: #22c976;
+    border-radius: 100px;
+}
+
+.free__course__img .free__btn:hover {
+    color: white;
+    transition: .5s;
+    background-color: #20ce20e8;
+}
+
+.free__course__img img {
+    border-radius: 10px;
+}
+
+.free__course__detail h6 {
+    font-weight: 600;
+    line-height: 2rem;
+}

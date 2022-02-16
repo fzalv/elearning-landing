@@ -9,7 +9,7 @@ import CourseCard from './CourseCard'
 const coursesdata = [
     {
         id: '01',
-        title: 'Web Design Bootcamp 2022 for Beginners',
+        title: 'UI/UX Bootcamp 2022 for Beginners',
         lesson: 10,
         students: 20,
         rating: 6.7,
@@ -17,7 +17,7 @@ const coursesdata = [
     },
     {
         id: '02',
-        title: 'Web Design Bootcamp 2022 for Beginners',
+        title: 'ReactJS Bootcamp 2022 for Beginners',
         lesson: 15,
         students: 10,
         rating: 8.3,
@@ -25,7 +25,7 @@ const coursesdata = [
     },
     {
         id: '03',
-        title: 'Web Design Bootcamp 2022 for Beginners',
+        title: 'Laravel Bootcamp 2022 for Beginners',
         lesson: 20,
         students: 15,
         rating: 7.6,
